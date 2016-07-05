@@ -1,6 +1,6 @@
-#I forked the Heroku infrastructure from the heroku-wp repo on github (thank you!). Below are the instructions to get that running. 
+###I forked the Heroku infrastructure from the heroku-wp repo on github (thank you!). Below are the instructions to get that running. 
 
-#This site can be visited at https://wp-trying.herokuapp.com/
+###This site can be visited at https://wp-trying.herokuapp.com/
 
 
 Heroku WP

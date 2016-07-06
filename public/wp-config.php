@@ -18,6 +18,8 @@
 define('DISALLOW_FILE_EDIT',true);
 define('DISALLOW_FILE_MODS',true);
 
+define('FORCE_SSL_ADMIN', true);
+
 // Set SSL'ed domain
 if ( !empty( $_ENV["SSL_DOMAIN"] ) ) {
 	define( 'FORCE_SSL_LOGIN', true );

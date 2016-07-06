@@ -21,4 +21,11 @@ function b2w_theme_js() {
 
 add_action ('wp_enqueue_scripts', 'b2w_theme_js');﻿
 
+function image_protocol_filter( $content ) {
+  $content = preg_replace('/src=(\')https?:/', 'src=\'', $content);
+  return preg_replace('/src="https?:/', 'src="', $content);
+}
+
+add_filter( 'the_content', 'image_protocol_filter' );
+
 ?>

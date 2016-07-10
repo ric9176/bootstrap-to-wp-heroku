@@ -2,6 +2,7 @@
 
 ###This site can be visited at https://wp-trying.herokuapp.com/
 
+###The site is running a wordpress theme that I created based on the [freelancer](http://startbootstrap.com/template-overviews/freelancer/) bootstrap3 template. For the development process of the wordpress theme please see this [repo](https://github.com/ric9176/bootstrap-to-wp)
 
 Heroku WP
 =========

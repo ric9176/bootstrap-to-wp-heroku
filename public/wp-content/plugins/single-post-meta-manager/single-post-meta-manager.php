@@ -12,6 +12,6 @@
  * Domain Path:       /languages
  */
 
-if ( ! defined( 'WPINC' ) ) {
+if (! defined( 'WPINC' )) {
     die;
 }

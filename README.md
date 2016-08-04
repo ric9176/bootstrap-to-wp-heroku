@@ -1,7 +1,8 @@
-###I forked the Heroku infrastructure from the heroku-wp repo on github (thank you!). Below are the instructions to get that running. 
+###I forked the Heroku infrastructure from the [heroku-wp](https://github.com/xyu/heroku-wp) repo on github (thank you!). Below are the instructions to get that running. 
 
 ###This site can be visited at https://wp-trying.herokuapp.com/
 
+###The site is running a wordpress theme that I created based on the [freelancer](http://startbootstrap.com/template-overviews/freelancer/) bootstrap3 template. For the development process of the wordpress theme please see this [repo](https://github.com/ric9176/bootstrap-to-wp)
 
 Heroku WP
 =========
